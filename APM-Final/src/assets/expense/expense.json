@@ -1,0 +1,32 @@
+[
+  {
+    "month": 1,
+    "year": 2021,
+    "type": "Rent",
+    "expense": 12500
+  },
+  {
+    "month": 1,
+    "year": 2021,
+    "type": "Shopping",
+    "expense": 5000
+  },
+  {
+    "month": 1,
+    "year": 2021,
+    "type": "Party",
+    "expense": 3000
+  },
+  {
+    "month": 2,
+    "year": 2021,
+    "type": "Rent",
+    "expense": 12500
+  },
+  {
+    "month": 2,
+    "year": 2021,
+    "type": "Movie",
+    "expense": 1200
+  }
+]
